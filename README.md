@@ -46,7 +46,7 @@ The project implements a complete end-to-end pipeline including:
 - Trains the model on merged data
 - Do the final prediction and saves the .csv file
 
-  ---
+---
 
 ## Dataset Description
 
