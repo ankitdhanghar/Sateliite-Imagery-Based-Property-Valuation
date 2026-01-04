@@ -99,7 +99,7 @@ source venv/bin/activate
 
 ### Install dependencies
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 ### download satellite images
