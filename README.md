@@ -84,8 +84,9 @@ The project implements a complete end-to-end pipeline including:
 
 ### Clone the Repository
 ```bash
-git clone https://https://github.com/ankitdhanghar/Satellite-Imagery-Based-Property-Valuation.git
+git clone https://github.com/ankitdhanghar/Satellite-Imagery-Based-Property-Valuation.git
 cd Satellite-Imagery-Based-Property-Valuation
+
 ```
 
 ### Create virtual environment
